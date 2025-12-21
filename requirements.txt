@@ -1,0 +1,16 @@
+fastapi 
+uvicorn[standard] 
+motor 
+Pillow 
+numpy 
+python-multipart 
+gradio 
+requests 
+insightface
+opencv-python-headless
+onnxruntime
+mysql-connector-python
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
